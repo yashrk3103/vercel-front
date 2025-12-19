@@ -1,4 +1,4 @@
-export const BASE_URL = "https://vercel-backend-jet-eta.vercel.app/";
+export const BASE_URL = "https://vercel-backend-jet-eta.vercel.app";
 
 export const API_PATHS = {
   AUTH: {
